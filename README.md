@@ -3,7 +3,7 @@ Notebook files are added for easy reading.
 
 ## Effective Python
 
-https://github.com/bslatkin/effectivepython
+Original examples are from https://github.com/bslatkin/effectivepython
 
 Hello! You've reached the official source code repository for _Effective Python_. To learn more about the book or contact the author, please [visit the official website](http://www.effectivepython.com).
 
